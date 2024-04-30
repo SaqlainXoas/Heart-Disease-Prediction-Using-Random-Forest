@@ -3,6 +3,7 @@
 This repository contains a project focused on predicting heart disease using a Random Forest classifier. The dataset used for training and testing the model is available in `heart.csv`. The dataset contains information about various attributes that can influence a person's likelihood of having heart disease.
 
 ## Dataset Description
+Dataset is publicly available : https://www.kaggle.com/datasets/arezaei81/heartcsv
 
 The dataset consists of 304 rows, each representing a patient, with the following attributes:
 
